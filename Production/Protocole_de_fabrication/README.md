@@ -5,11 +5,16 @@
 
 ## Ingrédients
 
-* Miel 350g/L pour 14°
-* Acide tartrique 1g/L
-* Sels nourriciers 0,4g/L
-* Eau 750ml / Kg de miel
-* Solution tuant les levures --> Bioferm Killer ou metabisulfite de potassium
+|         ingrédient         |     proportion     |
+|----------------------------|--------------------|
+|           Miel             |  350g/L pour 14°   |
+|       Acide tartrique      |        1g/L        |
+|       Acide citrique       |       ::TODO       |
+|       Sels nourricier      |       0,4g/L       |
+|            Eau             | 750ml / Kg de miel |
+| metabisulfite de potassium |       0.1g/L       |
+|       Bioferm killer       |       ::TODO       |
+
 
 ## Les bases du calcul sont les suivantes:
 
