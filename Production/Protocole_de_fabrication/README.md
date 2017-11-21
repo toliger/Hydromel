@@ -16,6 +16,27 @@
 |       Bioferm killer       |       ::TODO       |
 
 
+## Matériel
+
+* Cuve
+* Bouchon troué
+* barboteur
+
+## Ustensiles
+
+* Casserole > 5 Litre
+* Casserole > 1 Litre
+* Balance de précision >= mg
+* Entonnoir
+* Film plastique
+* Bocal de confitureen verre
+* Elastique
+* Thermomètre
+* Becher gradué > 1L
+* Pipette graduée
+* Poire à pipeté
+* ::TODO chercher un moyen de mesuré l'alcool sans perte
+
 ## Les bases du calcul sont les suivantes:
 
 Le manque d'acidité du miel sera corrigé avec de l'acide tartrique ( entre 0,7 et 1 g/L )  Ce miel étant peu acide, je choisis 1g/L donc 10 g d'acide tartrique . Idéalement il faut un pH voisin de 3,5
@@ -40,7 +61,7 @@ Le manque d'acidité du miel sera corrigé avec de l'acide tartrique ( entre 0,7
 * On chauffe le mélange à bain Marie en couvrant avec un film plastique
 * Après 1/2 heure, de la condensation et une mousse devraient apparaître sur le film.
 * Quand les deux liquides sont redescendus à température ambiante:
-  - Verser le mou dans la cuve
+  - Verser le mou dans la cuve + 0.8g de sel nutritif
   - Aèré le pied de cuve en l'agitant plusieurs fois par jour durant 4 jours
 
 ### Fermentation du moût à J+4
